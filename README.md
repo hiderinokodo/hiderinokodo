@@ -4,6 +4,7 @@ and impwoving on my cuwwent skills UwU
 
 ## Heew is the tech that I cuwwently leawn
 <div style="display:flex">
+  <img src="https://img.shields.io/badge/C++-black?logo=cplusplus&logoSize=auto" alt="cpp">
   <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&logoSize=auto" alt="typescript">
   <img src="https://img.shields.io/badge/React JS-black?logo=react&logoSize=auto" alt="ReactJS">
   <img src="https://img.shields.io/badge/Tailwind-black?logo=tailwindcss&logoSize=auto" alt="tailwindcss">
