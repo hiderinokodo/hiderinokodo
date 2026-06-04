@@ -18,5 +18,5 @@ and impwoving on my cuwwent skills UwU
 </div>
 
 ## Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hiderinokodo&show_icons=true&theme=transparent"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiderinokodo&layout=compact"></p>
+<p align="center">![ee-son's GitHub stats](.github/profile/stats.svg)</p?
+<p align="center">![ee-son's GitHub stats - Top Languages](.github/profile/top-langs.svg)</p>
