@@ -18,5 +18,9 @@ and impwoving on my cuwwent skills UwU
 </div>
 
 ## Stats
-![hiderinokodo's GitHub stats](.github/profile/stats.svg)
-![hiderinokodo's GitHub stats - Top Languages](.github/profile/top-langs.svg)
+<p align="center">
+  <img src=".github/profile/stats.svg" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src=".github/profile/top-langs.svg" alt="Top Languages" />
+</p>
