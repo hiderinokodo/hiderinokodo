@@ -18,5 +18,5 @@ and impwoving on my cuwwent skills UwU
 </div>
 
 ## Stats
-<p align="center">![ee-son's GitHub stats](.github/profile/stats.svg)</p?
-<p align="center">![ee-son's GitHub stats - Top Languages](.github/profile/top-langs.svg)</p>
+![hiderinokodo's GitHub stats](.github/profile/stats.svg)
+![hiderinokodo's GitHub stats - Top Languages](.github/profile/top-langs.svg)
